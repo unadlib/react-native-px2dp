@@ -1,0 +1,24 @@
+{
+  "name": "react-native-px2dp",
+  "version": "1.0.1",
+  "description": "pixels convert to density-independent pixels.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unadlib/react-native-px2dp.git"
+  },
+  "keywords": [
+    "react-native",
+    "px2dp",
+    "react-native-px2dp"
+  ],
+  "author": "unadlib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unadlib/react-native-px2dp/issues"
+  },
+  "homepage": "https://github.com/unadlib/react-native-px2dp#readme"
+}
