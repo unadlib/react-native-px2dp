@@ -1,6 +1,6 @@
 {
   "name": "react-native-px2dp",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "pixels convert to density-independent pixels.",
   "main": "lib/index.js",
   "scripts": {

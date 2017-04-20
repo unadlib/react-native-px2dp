@@ -11,11 +11,11 @@ npm install react-native-px2dp --save
 
 ### Usage
 ```javascript
-import px2dp from 'react-native-px2dp';
+import px,{px2dp} from 'react-native-px2dp';
 const style = {
-    width: px2dp(720),//UI height size is 1280.
+    width: 720 * px,//UI height size is 1280.
 }
 const otherStyle = {
-    width: px2dp(720,480),//UI height size is 960. 
+    width: 720 * px2dp(480),//UI height size is 960. 
 }
 ```
